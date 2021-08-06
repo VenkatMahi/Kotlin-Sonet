@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">food</string>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>thursday</item>
+        <item>Friday</item>
+        <item>Saturaday</item>
+        <item>Sunday</item>
+    </string-array>
+
+</resources>
